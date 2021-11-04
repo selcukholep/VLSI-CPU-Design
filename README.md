@@ -4,7 +4,7 @@ This project purposes 8 bit CPU design by using Electric VLSI.
 
 ### Installation
 
-Firstly, install [Electric VLSI](https://www.staticfreesoft.com/). Then import [ELE419_Project.jelib](https://github.com/selcukholep/FPGA-CPU-Design/blob/master/ELE419_Project.jelib) project file.
+Firstly, install [Electric VLSI](https://www.staticfreesoft.com/). Then import [ELE419_Project.jelib](https://github.com/selcukholep/VLSI-CPU-Design/blob/master/ELE419_Project.jelib) project file.
 
 ### Design Specifications
 
